@@ -1,5 +1,5 @@
-# projeto da disciplina: linguagem de marcação 2019.1
-<h1> Descrição do projeto</h1>
+# Projeto da disciplina linguagem de marcação 2019.1
+<h2> Descrição do projeto</h2>
 
 <p>O tema do site é o jogo Metal Slug. Dentre o conteúdo apresentado está uma breve história do jogo, galeria com imagens, links para o site e página do Facebook oficial, além de vídeos e um formulário de contato </p>
 <hr>
