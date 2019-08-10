@@ -3,12 +3,12 @@
 
 <p>O tema do site é o jogo Metal Slug. Dentre o conteúdo apresentado está uma breve história do jogo, galeria com imagens, links para o site e página do Facebook oficial, além de vídeos e um formulário de contato </p>
 <hr>
-<h1> Requisítos mínimos</h1>
+<h2> Requisítos mínimos</h2>
 <p>Navegador com suporte ao HTML5 e CSS3</p>
 <hr>
-<h1>Descrição das funcionalidades</h1>
+<h2>Descrição das funcionalidades</h2>
 <p>O site possui animações, contato, responsividade e recursos da Web</p>
 <hr>
-<h1>Contato</h1>
-<p>Ismael Dionísio</p>
-<p>Gabriel Manassés</p>
+<h2>Contato</h2>
+<p>Ismael Dionísio: dionisioismael22@gmail.com</p>
+<p>Gabriel Manassés: gabrielmanasses13@gmail.com</p>
