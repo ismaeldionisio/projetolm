@@ -11,4 +11,4 @@
 <hr>
 <h2>Contato</h2>
 <p>Ismael Dionísio: dionisioismael22@gmail.com</p>
-<p>Gabriel Manassés: gabrielmanasses13@gmail.com</p>
+
